@@ -1,1 +1,1 @@
-# Big-Data-and-Social-Network-Visualization-Coursework
+# Big-Data-and-Social-Network-Visualization
